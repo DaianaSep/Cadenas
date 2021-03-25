@@ -26,10 +26,7 @@ namespace Cadenas
             {
                 Console.WriteLine("Su frase: " + "'" + Frase + "'" + " contiene la palabra fin");
             }
-            else
-            {
-                Console.WriteLine("Presione una tecla para salir");
-            }
+            
         }
 
         public void A9()
